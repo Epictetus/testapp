@@ -9,7 +9,7 @@ gem 'sqlite3'
 gem 'haml'
 gem 'paperclip'
 gem 'aws-s3', :require => 'aws/s3'
-
+gem 'jquery-rails'
 
 # Use unicorn as the web server
 # gem 'unicorn'

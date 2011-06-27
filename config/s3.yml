@@ -1,0 +1,14 @@
+development:
+  bucket: andrea
+  access_key_id: AKIAIIRDPFD46GWMBFNA
+  secret_access_key: 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
+
+test:
+  bucket: andrea
+  access_key_id: AKIAIIRDPFD46GWMBFNA
+  secret_access_key: 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
+
+production:
+  bucket: andrea
+  access_key_id: AKIAIIRDPFD46GWMBFNA
+  secret_access_key: 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

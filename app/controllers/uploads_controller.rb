@@ -13,7 +13,7 @@ class UploadsController < ApplicationController
   # GET /uploads/1
   # GET /uploads/1.xml
   def show
-    @upload = Upload.find(params[:id])
+    @upload = Upload.find(  params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
